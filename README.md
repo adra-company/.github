@@ -27,14 +27,7 @@ En Adra, creemos que el futuro está aquí y ahora, y trabajamos arduamente para
 
 Si deseas obtener más información sobre nuestros servicios o tienes alguna pregunta, no dudes en contactarnos:
 
-- Sitio web: [www.adra.com](https://www.adra.com)
-- Correo electrónico: info@adra.com
-- Teléfono: +XX XXXX XXXX
+- Sitio web: [adra.company](adra.company)
+- Correo electrónico: contact@adra.company
 
 ¡Gracias por visitar nuestro repositorio!
-
----
-
-Este es solo un ejemplo básico del contenido que podrías incluir en el archivo README.md de tu repositorio en GitHub. Recuerda personalizarlo según las necesidades y la identidad de tu empresa Adra. Además, asegúrate de tener el logo de tu empresa en la ruta correspondiente y agrega la información de contacto correcta.
-
-¡Buena suerte con tu empresa Adra y tus proyectos en GitHub! Si necesitas más ayuda o tienes alguna otra solicitud, no dudes en preguntarme.
